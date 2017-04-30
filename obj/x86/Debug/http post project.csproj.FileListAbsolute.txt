@@ -1,0 +1,3 @@
+C:\Users\tjgaming\Desktop\Ubot Plugins\get mouse position\http post project\obj\x86\Debug\http post project.csprojResolveAssemblyReference.cache
+C:\Users\tjgaming\Desktop\Ubot Plugins\get mouse position\http post project\obj\x86\Debug\http_post_project.Properties.Resources.resources
+C:\Users\tjgaming\Desktop\Ubot Plugins\get mouse position\http post project\obj\x86\Debug\http post project.csproj.GenerateResource.Cache

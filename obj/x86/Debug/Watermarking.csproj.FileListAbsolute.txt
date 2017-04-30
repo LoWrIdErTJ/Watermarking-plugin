@@ -1,0 +1,14 @@
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Watermarking Commands\http post project\bin\Debug\Watermarking.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Watermarking Commands\http post project\bin\Debug\Watermarking.pdb
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Watermarking Commands\http post project\obj\x86\Debug\Watermarking.csprojResolveAssemblyReference.cache
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Watermarking Commands\http post project\obj\x86\Debug\Watermarking.Properties.Resources.resources
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Watermarking Commands\http post project\obj\x86\Debug\Watermarking.csproj.GenerateResource.Cache
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Watermarking Commands\http post project\obj\x86\Debug\Watermarking.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Watermarking Commands\http post project\obj\x86\Debug\Watermarking.pdb
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\SENT OFF TO UBOT\Watermarking Commands\http post project\bin\Debug\Watermarking.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\SENT OFF TO UBOT\Watermarking Commands\http post project\bin\Debug\Watermarking.pdb
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\SENT OFF TO UBOT\Watermarking Commands\http post project\obj\x86\Debug\Watermarking.csprojResolveAssemblyReference.cache
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\SENT OFF TO UBOT\Watermarking Commands\http post project\obj\x86\Debug\Watermarking.Properties.Resources.resources
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\SENT OFF TO UBOT\Watermarking Commands\http post project\obj\x86\Debug\Watermarking.csproj.GenerateResource.Cache
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\SENT OFF TO UBOT\Watermarking Commands\http post project\obj\x86\Debug\Watermarking.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\SENT OFF TO UBOT\Watermarking Commands\http post project\obj\x86\Debug\Watermarking.pdb

@@ -1,0 +1,16 @@
+C:\Users\tjgaming\Desktop\Ubot Plugins\get mouse position\http post project\obj\x86\Debug\GetMousePosition.Properties.Resources.resources
+C:\Users\tjgaming\Desktop\Ubot Plugins\get mouse position\http post project\obj\x86\Debug\GetMousePositionCommand.csproj.GenerateResource.Cache
+C:\Users\tjgaming\Desktop\Ubot Plugins\get mouse position\http post project\bin\Debug\GetMousePosition.dll
+C:\Users\tjgaming\Desktop\Ubot Plugins\get mouse position\http post project\bin\Debug\GetMousePosition.pdb
+C:\Users\tjgaming\Desktop\Ubot Plugins\get mouse position\http post project\bin\Debug\UBotPlugin.dll
+C:\Users\tjgaming\Desktop\Ubot Plugins\get mouse position\http post project\obj\x86\Debug\GetMousePosition.dll
+C:\Users\tjgaming\Desktop\Ubot Plugins\get mouse position\http post project\obj\x86\Debug\GetMousePosition.pdb
+C:\Users\tjgaming\Desktop\Ubot Plugins\get mouse position\http post project\obj\x86\Debug\GetMousePositionCommand.csprojResolveAssemblyReference.cache
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Ubot Plugins\CSV to HTML\http post project\obj\x86\Debug\GetMousePositionCommand.csprojResolveAssemblyReference.cache
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Ubot Plugins\CSV to HTML\http post project\obj\x86\Debug\CSVtoHTML.Properties.Resources.resources
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Ubot Plugins\CSV to HTML\http post project\obj\x86\Debug\GetMousePositionCommand.csproj.GenerateResource.Cache
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Ubot Plugins\CSV to HTML\http post project\bin\Debug\CSVtoHTML.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Ubot Plugins\CSV to HTML\http post project\bin\Debug\CSVtoHTML.pdb
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Ubot Plugins\CSV to HTML\http post project\bin\Debug\UBotPlugin.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Ubot Plugins\CSV to HTML\http post project\obj\x86\Debug\CSVtoHTML.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Ubot Plugins\CSV to HTML\http post project\obj\x86\Debug\CSVtoHTML.pdb
