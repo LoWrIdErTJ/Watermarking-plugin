@@ -1,0 +1,5 @@
+Watermark with text (font, color, position, Opacity)
+Watermark with image (position)
+Resize image
+
+10.00
